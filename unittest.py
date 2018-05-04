@@ -1,1 +1,1 @@
-print (test_python_ok)
+print test_python_ok
